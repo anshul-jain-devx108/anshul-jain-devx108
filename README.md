@@ -1,14 +1,20 @@
-- 👋 Hi, I’m ANSHUL JAIN
-- 👀 I’m interested in building  scalable "Product Market Fit" software products which solve a real world probelm and provide services to the large audience.
-- 🌱 I’m currently learning  building scalable software product by understanding the core conecpts of sytem desig and implemeting skills to build Web Application using HTML , CSS , JAVASCRIPT, REACTJS , NODEJS . 
+# 👋 Hi, I’m ANSHUL JAIN  
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
-<!---
-anshul-jain-devx108/anshul-jain-devx108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me  
+- 👀 I’m passionate about building **scalable "Product-Market Fit" software products** that solve real-world problems and deliver value to a large audience.  
+- 🌱 I’m currently enhancing my skills by learning **system design principles** and applying them to develop scalable web applications using technologies like **HTML, CSS, JavaScript, ReactJS, and Node.js**.  
+
+### My Interests  
+- 🚀 Creating innovative software solutions with a focus on scalability and user experience.  
+- 💡 Exploring **backend development**, **API design**, and **microservices architecture**.  
+- 🎯 Solving complex problems through efficient system design and clean code practices.  
+
+### Get in Touch  
+- 📫 **Email:** [anshul.jain.devx@gmail.com](mailto:anshul.jain.devx@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/anshul-jain-2b1b0b250/](https://www.linkedin.com/in/anshul-jain-2b1b0b250/)  
+
+### Fun Fact  
+⚡ I’m always excited to explore new technologies and collaborate on projects that make a meaningful impact.  
+
+---  
+✨ *Feel free to connect with me to discuss tech, ideas, or potential collaborations!*  
