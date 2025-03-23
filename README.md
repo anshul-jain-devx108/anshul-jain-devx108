@@ -72,9 +72,8 @@
 ### 🚀 Personal Goals
 
 - Contributing to **Open Source** projects.  
-- Building impactful **AI-powered** applications.  
-- Developing a **SaaS platform** for feedback management.  
-- Enhancing knowledge in **API Development** and **Data Engineering**.  
+- Building impactful **AI-powered** applications.   
+- Enhancing knowledge in **Software Developemnt**.  
 
 ---
 
