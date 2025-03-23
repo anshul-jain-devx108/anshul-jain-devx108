@@ -14,7 +14,7 @@
 - 💼 Aspiring **API Developer** and exploring **Data Engineering**.  
 - 🚀 Experience in developing microservices and cloud-based applications.  
 - 🏆 Smart India Hackathon 2024 Finalist | National Level Competitor.  
-- 📫 Reach me at **2022csanshul11471@poornima.edu.in**  
+- 📫 Reach me at **anshul.jain.devx@gmail.com**  
 
 ---
 
