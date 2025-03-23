@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack with AI Integration**
 
-- 📫 How to reach me **2022csanshul11471@poornima.edu.in**
+- 📫 How to reach me **anshul.jain.devx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
