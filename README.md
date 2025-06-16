@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently exploring **Full Stack Development with AI Integration**  
+- 🌱 I’m currently exploring **Generative AI**  
 - 💡 Passionate about building scalable software solutions and AI-powered applications.  
 - 💼 Aspiring **API Developer** and exploring **Data Engineering**.  
 - 🚀 Experience in developing microservices and cloud-based applications.  
