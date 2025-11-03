@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently exploring **Generative AI**  
 - 💡 Passionate about building scalable software solutions and AI-powered applications.  
-- 💼 Aspiring **API Developer** and exploring **Data Engineering**.  
+- 💼 Aspiring **API Developer**.  
 - 🚀 Experience in developing microservices and cloud-based applications.  
 - 🏆 Smart India Hackathon 2024 Finalist | National Level Competitor.  
 - 📫 Reach me at **anshul.jain.devx@gmail.com**  
