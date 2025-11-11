@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently exploring **Generative AI**  
+- 🌱 Generative AI Engineer @Innoflexion
 - 💡 Passionate about building scalable software solutions and AI-powered applications.  
 - 💼 Aspiring **API Developer**.  
 - 🚀 Experience in developing microservices and cloud-based applications.  
