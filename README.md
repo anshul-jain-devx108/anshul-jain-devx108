@@ -9,12 +9,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 Generative AI Engineer @Innoflexion
-- 💡 Passionate about building scalable software solutions and AI-powered applications.  
-- 💼 Aspiring **API Developer**.  
-- 🚀 Experience in developing microservices and cloud-based applications.  
-- 🏆 Smart India Hackathon 2024 Finalist | National Level Competitor.  
-- 📫 Reach me at **anshul.jain.devx@gmail.com**  
+- 🌱 Generative AI Engineer @Innoflexion  
+- 💡 Passionate about building scalable software solutions and AI-powered applications  
+- 💼 Aspiring **API Developer**  
+- 🚀 Experience in developing microservices and cloud-based applications  
+- 🏆 Smart India Hackathon 2024 Finalist | National Level Competitor  
+- 📫 Reach me at **anshul.jain.devx@gmail.com**
 
 ---
 
@@ -32,6 +32,7 @@
 <p align="left">
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/></a>
@@ -46,7 +47,18 @@
   <a href="https://graphql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="50" height="50"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+  <a href="https://github.com/getagno/agno" target="_blank"><img src="https://raw.githubusercontent.com/getagno/agno/main/assets/logo.svg" alt="Agno" width="50" height="50"/></a>
 </p>
+
+---
+
+### 🚧 Project Showcase
+
+| Project | Description | Tech Stack | Repo |
+|----------|--------------|-------------|-------|
+| **DAVE** | An agentic AI system for autonomous RFP automation and analysis. | FastAPI · React · Agno · LangGraph · MongoDB | [🔗 View Repository](https://github.com/anshul-jain-devx108/DAVE) |
+| **AI Resume Analyzer** | Intelligent system to analyze resumes and match job descriptions using NLP. | Python · FastAPI · OpenAI API · MongoDB | [🔗 View Repository](https://github.com/anshul-jain-devx108/AI-Resume-Analyzer) |
+| **SmartFleet** | Cloud-based fleet management system with predictive analytics. | Node.js · Express.js · MongoDB · Azure | [🔗 View Repository](https://github.com/anshul-jain-devx108/SmartFleet) |
 
 ---
 
@@ -68,9 +80,9 @@
 
 ### 🚀 Personal Goals
 
-- Contributing to **Open Source** projects.  
-- Building impactful **AI-powered** applications.   
-- Enhancing knowledge in **Software Developemnt**.  
+- Contributing to **Open Source** projects  
+- Building impactful **AI-powered** applications  
+- Enhancing knowledge in **Software Development**
 
 ---
 
