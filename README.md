@@ -56,7 +56,7 @@
 |----------|--------------|-------------|-------|
 | **BidMate AI** | Agentic AI system automating end-to-end **B2B RFP response** for industrial clients, reducing response time by 60%. Built with asynchronous workflows and cloud deployment. | FastAPI · LangGraph · Gemini APIs · Agno · GCP | 🔗 *Under Development (35% Complete)* |
 | **LearnSphere** | AI-powered educational platform automating assignment generation, grading, and feedback — reducing teacher workload by 40%. Integrated Gemini APIs for personalized learning assistance. | Node.js · FastAPI · Gemini LLM · Google Cloud · OAuth 2.0 | [🔗 GitHub](https://github.com/anshul-jain-devx108/LearnSphere---AI-Powered-Educational-Platform-) · [🌐 Live Demo](https://learn-sphere-ai-powered-educational-platform.vercel.app/) |
-| **SmartFleet** | Cloud-based fleet management system providing predictive analytics and tracking insights. | Node.js · Express.js · MongoDB · Azure | [🔗 GitHub](https://github.com/anshul-jain-devx108/SmartFleet) |
+
 
 ---
 
