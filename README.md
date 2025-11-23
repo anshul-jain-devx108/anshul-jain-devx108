@@ -67,9 +67,6 @@
 - Contributed to **HLD/LLD documentation**, improving onboarding efficiency by 30%.  
 - Collaborated cross-functionally to design scalable data models across cloud and backend systems.
 
-**💻 Celebal Technologies — Node.js Intern** *(Completed)*  
-- Built and deployed **RESTful APIs** handling 500+ requests/day with strong emphasis on scalability and security.  
-- Focused on **clean architecture, modularity,** and **long-term maintainability** for enterprise-grade systems.
 
 ---
 
