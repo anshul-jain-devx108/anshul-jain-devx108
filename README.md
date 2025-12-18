@@ -62,7 +62,7 @@
 
 ### 🏢 Work Experience
 
-**🧠 Innoflexion — Generative AI Engineer Intern** *(Ongoing)*  
+**🧠 Innoflexion — Generative AI Engineer** *(Completed)*  
 - Developed agentic AI workflows using **LangChain** and **Agno**, enabling automated data processing and intelligent report generation.  
 - Contributed to **HLD/LLD documentation**, improving onboarding efficiency by 30%.  
 - Collaborated cross-functionally to design scalable data models across cloud and backend systems.
