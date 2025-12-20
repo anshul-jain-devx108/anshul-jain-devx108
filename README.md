@@ -9,8 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 **Generative AI Engineer Intern @ Innoflexion** (Ongoing)  
-- 💡 Passionate about **backend systems**, **GenAI workflows**, and **AI-first architectures**.  
+- 🚀 **Generative AI Engineer Intern @ Innoflexion**  
+- 💡 Passionate about **backend systems**, **Agenitc Systems**, and **AI-first architectures**.  
 - 🧠 Experienced in building scalable **FastAPI-based APIs**, **LangChain / Agno agents**, and **cloud-native AI systems**.  
 - 🏗️ Skilled at designing **end-to-end systems** — from high-level architecture (HLD/LLD) to production deployment.  
 - 🏆 Finalist: **Smart India Hackathon 2024**, **Rajasthan Police Hackathon**, and **Informatica GenAI Hackathon 2025 (Prototype Phase)**  
@@ -20,7 +20,7 @@
 
 ### ⚙️ Core Skills
 
-**Programming:** C/C++, Python  
+**Programming:** C/C++, Python, JavaScript  
 **Backend:** FastAPI, Node.js, Express.js, REST APIs, API Integrations  
 **Agentic AI:** LangChain, Agno, LangGraph, Gemini APIs, Hugging Face, Vertex AI, AWS Bedrock  
 **Cloud Services:** Google Cloud, AWS EC2, AWS Bedrock  
