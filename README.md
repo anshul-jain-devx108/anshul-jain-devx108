@@ -53,7 +53,7 @@
 
 ### 🏢 Work Experience
 
-**🧠 Innoflexion — Generative AI Engineer Intern** *(Completed)*
+**🧠 Innoflexion — Generative AI Engineer Intern**
 - Architected an **enterprise multi-agent AI chatbot** on **AWS Bedrock** (Claude) using **Agentic RAG**, **MCP**-style tool calling, and **Context Engineering** across structured (Parquet, SQL), semi-structured (S3), and unstructured (PDF) data sources — cutting token costs and query latency by **30%** each.
 - Built an **agentic document analysis & OCR pipeline** using **AWS Textract** + **AWS Lambda** with **Prompt Engineering** and **Harness Engineering** techniques (temperature calibration, prompt normalisation) — improving extraction reliability by **40%**.
 - Deployed an **Enterprise Deep-Research & Insight Synthesis System** on **GCP Vertex AI + Cloud Run** using **Agno** multi-agent orchestration and **Knowledge Graph**-backed retrieval — reducing manual research effort by **65%** and insight latency by **45%**.
@@ -62,7 +62,7 @@
 
 ---
 
-**🏢 Celebal Technologies — Full Stack AI Engineer Intern** *(On-going)*
+**🏢 Celebal Technologies — Software Engineer**
 - Building **AI document processing systems** on **Azure** using **Azure OpenAI**, **Document Intelligence**, and **LangGraph** stateful workflows — automating classification, extraction, and routing at scale, reducing manual review by **40%**.
 - Developed an **AI-powered Voice Interview System** — a multimodal pipeline combining **GPT Realtime APIs** + **LiveKit** (TTS/STT) for real-time bidirectional voice interviews, with dynamic question generation via **Prompt Engineering** on **Microsoft Foundry**-hosted models and **LLM Evals**-driven candidate scoring persisted to **PostgreSQL**.
 - Built **resume shortlisting engine** using **Microsoft Foundry** embedding models to score candidates against JD requirements — fully automating end-to-end recruitment from upload to scored report.
