@@ -51,22 +51,29 @@
 ---
 
 ---
-
 ### 🏢 Work Experience
 
-**🧠 Celebal Technologies — Full Stack AI Engineer Intern** *(On-going)*
-- Building enterprise-grade **AI document processing systems on Azure** using **Azure OpenAI**, **Document Intelligence**, and **LangGraph** stateful workflows — reducing manual review effort by **40%**.
-- Developing an **AI-powered recruitment platform** with automated resume shortlisting, real-time **voice interviews** via **GPT Realtime APIs + LiveKit** (TTS/STT), and **LLM Evals**-driven candidate scoring.
-- Deploying serverless AI pipelines via **Azure Functions**, secured with **JWT authentication** and **Azure DevOps** CI/CD.
+**🧠 Innoflexion — Generative AI Engineer Intern** *(Completed)*
+- Architected an **enterprise multi-agent AI chatbot** on **AWS Bedrock** (Claude) using **Agentic RAG**, **MCP**-style tool calling, and **Context Engineering** across structured (Parquet, SQL), semi-structured (S3), and unstructured (PDF) data sources — cutting token costs and query latency by **30%** each.
+- Built an **agentic document analysis & OCR pipeline** using **AWS Textract** + **AWS Lambda** with **Prompt Engineering** and **Harness Engineering** techniques (temperature calibration, prompt normalisation) — improving extraction reliability by **40%**.
+- Deployed an **Enterprise Deep-Research & Insight Synthesis System** on **GCP Vertex AI + Cloud Run** using **Agno** multi-agent orchestration and **Knowledge Graph**-backed retrieval — reducing manual research effort by **65%** and insight latency by **45%**.
+- Integrated **AI Gateway** for rate limiting, routing, and model fallback; wired **LLM Observability** via **Langfuse** reducing debugging time by **40%**; enforced **AWS Bedrock Guardrails** improving safety compliance by **35%**.
+- Deployed all services as **Dockerized FastAPI** microservices behind **AWS API Gateway** and **GCP Cloud Run** with auto-scaling.
 
 ---
 
-**🤖 Innoflexion — Generative AI Engineer Intern** *(Completed)*
-- Architected an **enterprise multi-agent AI chatbot** on **AWS Bedrock** using **Agentic RAG**, **MCP**-style tool calling, and **Context Engineering** — cutting token costs and query latency by **30%** each.
-- Built an **agentic document analysis pipeline** using **AWS Textract** with **Prompt Engineering** and **Harness Engineering** techniques, improving extraction reliability by **40%**.
-- Integrated **LLM Observability** via **Langfuse** reducing debugging time by **40%**; enforced safety via **AWS Bedrock Guardrails** improving compliance by **35%**.
-- Deployed **Dockerized FastAPI** services behind **AWS API Gateway** with **AI Gateway** layer for rate limiting, routing, and model fallback.
+**🏢 Celebal Technologies — Full Stack AI Engineer Intern** *(On-going)*
+- Building **AI document processing systems** on **Azure** using **Azure OpenAI**, **Document Intelligence**, and **LangGraph** stateful workflows — automating classification, extraction, and routing at scale, reducing manual review by **40%**.
+- Developed an **AI-powered Voice Interview System** — a multimodal pipeline combining **GPT Realtime APIs** + **LiveKit** (TTS/STT) for real-time bidirectional voice interviews, with dynamic question generation via **Prompt Engineering** on **Microsoft Foundry**-hosted models and **LLM Evals**-driven candidate scoring persisted to **PostgreSQL**.
+- Built **resume shortlisting engine** using **Microsoft Foundry** embedding models to score candidates against JD requirements — fully automating end-to-end recruitment from upload to scored report.
+- Architecting cloud-native pipelines on **Azure Blob Storage** + **Azure SQL**; deployed serverless AI execution via **Azure Functions**; secured with **JWT authentication** and **Azure DevOps** CI/CD.
 
+---
+
+**🌟 Agno Framework — Open Source Contributor** *(2026)*
+- Designed and shipped **GoogleSlidesTools** (PR #6830) — **19 production-grade tools** integrating the full Google Slides API into Agno's ecosystem (presentation lifecycle, slide manipulation, batch operations).
+- Completed **full Google Workspace coverage** for Agno — complementing existing Sheets, Docs, Drive, Calendar, and Gmail integrations, making Agno the only OSS agent framework with end-to-end Workspace support.
+- Architected dual **OAuth 2.0 and Service Account** authentication flows supporting both user-facing and enterprise server-side deployments.
 ---
 
 **🌟 Agno Framework — Open Source Contributor** *(2026)*
