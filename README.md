@@ -50,7 +50,7 @@
 
 ---
 
----
+
 ### 🏢 Work Experience
 
 **🧠 Innoflexion — Generative AI Engineer Intern** *(Completed)*
@@ -76,13 +76,8 @@
 - Architected dual **OAuth 2.0 and Service Account** authentication flows supporting both user-facing and enterprise server-side deployments.
 ---
 
-**🌟 Agno Framework — Open Source Contributor** *(2026)*
-- Designed and shipped **GoogleSlidesTools** (PR #6830) — **19 production-grade tools** integrating the full Google Slides API into Agno's ecosystem.
-- Completed **full Google Workspace coverage** for the framework (Slides, Sheets, Docs, Drive, Calendar, Gmail).
-- Architected dual **OAuth 2.0 and Service Account** authentication flows for enterprise deployments.
 
 
----
 
 ### 🏆 Certifications & Achievements
 
