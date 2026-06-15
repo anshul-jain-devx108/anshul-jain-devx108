@@ -54,10 +54,25 @@
 
 ### 🏢 Work Experience
 
-**🧠 Innoflexion — Generative AI Engineer** 
-- Developed agentic AI workflows using **Agno**, enabling automated data processing and intelligent report generation.  
-- Contributed to **HLD/LLD documentation**, improving onboarding efficiency by 30%.  
-- Collaborated cross-functionally to design scalable data models across cloud and backend systems.
+**🧠 Celebal Technologies — Full Stack AI Engineer Intern** *(On-going)*
+- Building enterprise-grade **AI document processing systems on Azure** using **Azure OpenAI**, **Document Intelligence**, and **LangGraph** stateful workflows — reducing manual review effort by **40%**.
+- Developing an **AI-powered recruitment platform** with automated resume shortlisting, real-time **voice interviews** via **GPT Realtime APIs + LiveKit** (TTS/STT), and **LLM Evals**-driven candidate scoring.
+- Deploying serverless AI pipelines via **Azure Functions**, secured with **JWT authentication** and **Azure DevOps** CI/CD.
+
+---
+
+**🤖 Innoflexion — Generative AI Engineer Intern** *(Completed)*
+- Architected an **enterprise multi-agent AI chatbot** on **AWS Bedrock** using **Agentic RAG**, **MCP**-style tool calling, and **Context Engineering** — cutting token costs and query latency by **30%** each.
+- Built an **agentic document analysis pipeline** using **AWS Textract** with **Prompt Engineering** and **Harness Engineering** techniques, improving extraction reliability by **40%**.
+- Integrated **LLM Observability** via **Langfuse** reducing debugging time by **40%**; enforced safety via **AWS Bedrock Guardrails** improving compliance by **35%**.
+- Deployed **Dockerized FastAPI** services behind **AWS API Gateway** with **AI Gateway** layer for rate limiting, routing, and model fallback.
+
+---
+
+**🌟 Agno Framework — Open Source Contributor** *(2026)*
+- Designed and shipped **GoogleSlidesTools** (PR #6830) — **19 production-grade tools** integrating the full Google Slides API into Agno's ecosystem.
+- Completed **full Google Workspace coverage** for the framework (Slides, Sheets, Docs, Drive, Calendar, Gmail).
+- Architected dual **OAuth 2.0 and Service Account** authentication flows for enterprise deployments.
 
 
 ---
