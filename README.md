@@ -27,7 +27,8 @@
 - 📫 **anshul.jain.devx@gmail.com** — open to Applied AI / Forward Deployed Engineer roles, remote or relocation
 
 ---
-
+i
+pur
 ### Featured work
 
 **📧 Email Intelligence System** — *Agno AgentOS · GPT-OSS (on-prem) · OCR · WhatsApp Business API · Outlook & Gmail API*
@@ -67,7 +68,7 @@ One natural-language interface over heterogeneous enterprise data. A leader agen
 
 ### Work Experience
 
-**🏢 Celebal Technologies — Junior Software Engineer, AI / Backend** · *Feb 2026 – Present · Jaipur, India*
+**🏢 Celebal Technologies — Junior Software Engineer, AI / Backend** · *Feb 2026 – Present · India*
 
 - Architected and shipped an internal **AI Control Plane** on **Azure** — a multi-agent system with specialized agents for document processing, outbound communication and email monitoring, built on **Azure OpenAI**, **Azure Document Intelligence** and **Agno** stateful workflows to classify, extract and route work automatically. **40% less manual review effort.**
 - Built **AI-powered procurement automation** — purchase-order processing, goods-receipt automation, PO validation and supplier correspondence, using agentic workflows to extract, validate, reconcile and route procurement data across business processes.
