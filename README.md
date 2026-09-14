@@ -1,110 +1,106 @@
-<h1 align="center">Hi 👋, I'm Anshul Jain</h1>
-<h3 align="center">"Innovating with Code, Scaling with Vision."</h3>
+<!--
+  Anshul Jain — GitHub profile README (corrected 14 Sept 2026)
+  Paste this into: github.com/anshul-jain-devx108/anshul-jain-devx108 → README.md
+
+  WHAT CHANGED AND WHY: see ../17-github-readme-changelog.md
+  ONE RULE: this file and your resume must never contradict each other.
+-->
+
+<h1 align="center">Anshul Jain</h1>
+<h3 align="center">Applied AI Engineer — I take ambiguous business problems and ship agentic systems that survive production.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshul-jain-devx108&label=Profile%20views&color=0e75b6&style=flat" alt="anshul-jain-devx108" />
+  <a href="https://github.com/agno-agi/agno/pulls?q=author%3Aanshul-jain-devx108"><img src="https://img.shields.io/badge/Agno-contributor-2E86DE" alt="Agno contributor" /></a>
+  <a href="https://linkedin.com/in/anshul-jain-2b1b0b250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anshul.jain.devx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### About
 
-- 🚀 **Generative AI Engineer Intern @ Innoflexion**  
-- 💡 Passionate about **backend systems**, **Agenitc Systems**, and **AI-first architectures**.  
-- 🧠 Experienced in building scalable **FastAPI-based APIs**, **LangChain / Agno agents**, and **cloud-native AI systems**.  
-- 🏗️ Skilled at designing **end-to-end systems** — from high-level architecture (HLD/LLD) to production deployment.  
-- 🏆 Finalist: **Smart India Hackathon 2024**, **Rajasthan Police Hackathon**, and **Informatica GenAI Hackathon 2025 (Prototype Phase)**  
-- 📫 Reach me at **anshul.jain.devx@gmail.com**
-
----
-
-### ⚙️ Core Skills
-
-**Programming:** C/C++, Python, JavaScript  
-**Backend:** FastAPI, Node.js, Express.js, REST APIs, API Integrations  
-**Agentic AI:** LangChain, Agno, LangGraph, Gemini APIs, Hugging Face, Vertex AI, AWS Bedrock  
-**Cloud Services:** Google Cloud, AWS EC2, AWS Bedrock  
-**Databases:** MongoDB, ChromaDB, Milvus, Firestore  
-**Tools & DevOps:** Git, Docker, Linux, Postman  
-**AI Protocols:** MCP (Model Context Protocol), A2A (Agent-to-Agent)
+- 🏢 **Junior Software Engineer — AI / Backend @ [Celebal Technologies](https://celebaltech.com)** · Feb 2026 – Present
+- 🌟 **Contributor to [Agno](https://github.com/agno-agi/agno)** — `GoogleSlidesTools` (19 tools, [#6830](https://github.com/agno-agi/agno/pull/6830)) and `YouTools` fixes ([#8906](https://github.com/agno-agi/agno/pull/8906)) merged into the core codebase
+- 🧠 I build **production agentic systems**: multi-agent orchestration, RAG, document intelligence, on-prem LLM deployment
+- 🏗️ End-to-end ownership — problem discovery → architecture (HLD/LLD) → LLM integration → cloud deployment → handover
+- ☁️ **AWS Bedrock** · **Azure OpenAI / AI Foundry** · **GCP Vertex AI** · Python · FastAPI · Agno
+- 📫 **anshul.jain.devx@gmail.com** — open to Applied AI / Forward Deployed Engineer roles, remote or relocation
 
 ---
 
-### 🛠️ Languages and Tools
+### Featured work
 
-<p align="left">
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://github.com/getagno/agno" target="_blank"><img src="https://raw.githubusercontent.com/getagno/agno/main/assets/logo.svg" alt="Agno" width="50" height="50"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="50" height="50"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
+**📧 Email Intelligence System** — *Agno AgentOS · GPT-OSS (on-prem) · OCR · WhatsApp Business API · Outlook & Gmail API*
+Production email intelligence for a logistics operation running **1,000+ vehicles** under government tenders — classifies, routes and drafts replies to unstructured government audit notices scattered across state-wise inboxes. Fully **on-premise and data-sovereign**: GPT-OSS deployed on client infrastructure with a human-in-the-loop approval gate. Owned end-to-end from discovery to rollout → **30% less manual effort, $24K+ realized savings, $120K+ projected annual savings, zero data egress.**
+
+**🌍 [Global Trade Sentinel](https://github.com/anshul-jain-devx108/global-trade-sentinel)** — *Agno AgentOS · You.com Research API · Microsoft Foundry · Supabase · Slack · Teams*
+Autonomous trade-compliance monitoring across **40+ sources and jurisdictions** — a router agent plus **6 specialist agents** surface only the regulations that touch a company's HS codes, suppliers and target markets. Parallel specialist execution, scheduled sweeps, persistent sessions and memory, and a human-in-the-loop gate on expensive deep-research calls. Every finding carries primary-source citations.
+
+**🤖 Enterprise Multi-Agent AI Chatbot** — *AWS Bedrock · Agno · FastAPI · Milvus*
+One natural-language interface over heterogeneous enterprise data. A leader agent decomposes and routes queries to specialists for **NL2SQL** over SQL/Parquet, S3 document retrieval and semantic **RAG**, with vector-based schema discovery narrowing tables before query generation. Custom **tool-output compression** cut token cost and latency **30%**.
+
+---
+
+### Open Source — [Agno](https://github.com/agno-agi/agno)
+
+| PR | What |
+|---|---|
+| ✅ [**#6830**](https://github.com/agno-agi/agno/pull/6830) | **`GoogleSlidesTools`** — 19 production-grade tools wrapping the Google Slides API (presentation lifecycle, slide manipulation, content generation, batch ops), with dual **OAuth 2.0 / service-account** auth. Completes Agno's Google Workspace coverage alongside Sheets, Docs, Drive, Calendar and Gmail. |
+| ✅ [**#8906**](https://github.com/agno-agi/agno/pull/8906) | **`YouTools` fixes** — exposed missing search parameters, corrected `LiveCrawl` enum handling and array serialization, added configurable crawl timeouts to eliminate gateway timeouts. With tests. |
+| 🔄 [**#8930**](https://github.com/agno-agi/agno/issues/8930) | **`YouTools` expansion** to You.com's Research, Contents and Finance APIs — proposed and built. Refactored a flat module into a package with shared auth and backwards-compatible re-exports; submitted as three separately reviewable PRs: [#8958](https://github.com/agno-agi/agno/pull/8958), [#9020](https://github.com/agno-agi/agno/pull/9020), [#9031](https://github.com/agno-agi/agno/pull/9031). |
+
+---
+
+### Core Skills
+
+**Languages & Backend** — Python, SQL, FastAPI, async/asyncio, Pydantic, REST API design, pytest
+**AI & Agentic** — Agno, agentic workflows, multi-agent orchestration, RAG, prompt & context engineering, structured outputs, LLM evals & guardrails, knowledge graphs, Hugging Face
+**AI Protocols** — MCP (Model Context Protocol), A2A (Agent-to-Agent)
+**Observability & Evals** — Langfuse (tracing, evaluations), AWS Bedrock Guardrails, structured logging
+**Cloud** — AWS (Bedrock, Lambda, S3, Textract, API Gateway) · Azure (OpenAI, AI Foundry, Document Intelligence, Functions, Blob, SQL) · GCP (Vertex AI, Cloud Run)
+**Data & Vector Stores** — PostgreSQL, Milvus, MongoDB, Supabase, Azure SQL, ChromaDB
+**Tools & DevOps** — Git, Docker, Linux, Azure DevOps, CI/CD, Postman
+
+*Also worked with:* C/C++, JavaScript, Node.js, Express.js, React
+
+---
+
+### Work Experience
+
+**🏢 Celebal Technologies — Junior Software Engineer, AI / Backend** · *Feb 2026 – Present · Jaipur, India*
+
+- Architected and shipped an internal **AI Control Plane** on **Azure** — a multi-agent system with specialized agents for document processing, outbound communication and email monitoring, built on **Azure OpenAI**, **Azure Document Intelligence** and **Agno** stateful workflows to classify, extract and route work automatically. **40% less manual review effort.**
+- Built **AI-powered procurement automation** — purchase-order processing, goods-receipt automation, PO validation and supplier correspondence, using agentic workflows to extract, validate, reconcile and route procurement data across business processes.
+- Built a **resume shortlisting engine** on **Microsoft Foundry** embedding models, scoring candidates against JD requirements end-to-end from upload to scored report.
+- Architected the platform's **cloud-native backend** on **Azure AI Foundry**, **Blob Storage** and **Azure SQL** for high-volume document processing and parallel agent execution; serverless execution via **Azure Functions**, secured with **OAuth 2.0 / Microsoft Identity Platform** and SSO, shipped through **Azure DevOps** CI/CD.
+
+**🧠 Innoflexion — AI Engineer (Contract)** · *Jun 2025 – Dec 2025 · Remote*
+
+- Architected an **enterprise multi-agent AI chatbot** on **AWS Bedrock** (Claude) using agentic **RAG**, MCP-style tool calling and context engineering across structured (Parquet, SQL), semi-structured (S3) and unstructured (PDF) sources — **cutting token cost and query latency 30% each.**
+- Deployed an **enterprise deep-research and insight synthesis system** on **GCP Vertex AI + Cloud Run** — **Agno** multi-agent orchestration with **knowledge-graph**-backed retrieval, a coordinator agent decomposing objectives and retrieval sub-agents gathering context in parallel. **65% less manual research effort, 45% lower insight latency.**
+- Built an **agentic document analysis and OCR pipeline** on **AWS Textract** + **Lambda**, with prompt normalisation and temperature calibration for reliable extraction from no-fixed-format documents.
+- Integrated an **AI Gateway** for rate limiting, model routing and fallback; wired **LLM observability** through **Langfuse** (**40% faster debugging**) and enforced **AWS Bedrock Guardrails** against prompt injection and out-of-scope queries.
+- Shipped every service as a **Dockerized FastAPI** microservice behind **AWS API Gateway** and **GCP Cloud Run** with auto-scaling.
+- Owned **client-facing delivery** across **3 time zones** — requirements → shipped production systems, technical discussions, product demos, and GTM support for AI offerings.
+
+---
+
+### Achievements
+
+- 🥇 **Smart India Hackathon 2024** — National Finalist
+- 🥈 **Rajasthan Police Hackathon** — Finalist
+- 🚀 **Informatica AI/GenAI Hackathon 2025** — advanced to Prototype Development phase
+
+---
+
+### Education
+
+**Poornima University, Jaipur** · *2022 – 2026*
+B.Tech, Computer Science and Engineering
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/anshul-jain-2b1b0b250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anshul.jain.devx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
----
-
-
-### 🏢 Work Experience
-
-**🧠 Innoflexion — Generative AI Engineer Intern**
-- Architected an **enterprise multi-agent AI chatbot** on **AWS Bedrock** (Claude) using **Agentic RAG**, **MCP**-style tool calling, and **Context Engineering** across structured (Parquet, SQL), semi-structured (S3), and unstructured (PDF) data sources — cutting token costs and query latency by **30%** each.
-- Built an **agentic document analysis & OCR pipeline** using **AWS Textract** + **AWS Lambda** with **Prompt Engineering** and **Harness Engineering** techniques (temperature calibration, prompt normalisation) — improving extraction reliability by **40%**.
-- Deployed an **Enterprise Deep-Research & Insight Synthesis System** on **GCP Vertex AI + Cloud Run** using **Agno** multi-agent orchestration and **Knowledge Graph**-backed retrieval — reducing manual research effort by **65%** and insight latency by **45%**.
-- Integrated **AI Gateway** for rate limiting, routing, and model fallback; wired **LLM Observability** via **Langfuse** reducing debugging time by **40%**; enforced **AWS Bedrock Guardrails** improving safety compliance by **35%**.
-- Deployed all services as **Dockerized FastAPI** microservices behind **AWS API Gateway** and **GCP Cloud Run** with auto-scaling.
-
----
-
-**🏢 Celebal Technologies — Software Engineer**
-- Building **AI document processing systems** on **Azure** using **Azure OpenAI**, **Document Intelligence**, and **LangGraph** stateful workflows — automating classification, extraction, and routing at scale, reducing manual review by **40%**.
-- Developed an **AI-powered Voice Interview System** — a multimodal pipeline combining **GPT Realtime APIs** + **LiveKit** (TTS/STT) for real-time bidirectional voice interviews, with dynamic question generation via **Prompt Engineering** on **Microsoft Foundry**-hosted models and **LLM Evals**-driven candidate scoring persisted to **PostgreSQL**.
-- Built **resume shortlisting engine** using **Microsoft Foundry** embedding models to score candidates against JD requirements — fully automating end-to-end recruitment from upload to scored report.
-- Architecting cloud-native pipelines on **Azure Blob Storage** + **Azure SQL**; deployed serverless AI execution via **Azure Functions**; secured with **JWT authentication** and **Azure DevOps** CI/CD.
-
----
-
-**🌟 Agno Framework — Open Source Contributor** *(2026)*
-- Designed and shipped **GoogleSlidesTools** (PR #6830) — **19 production-grade tools** integrating the full Google Slides API into Agno's ecosystem (presentation lifecycle, slide manipulation, batch operations).
-- Completed **full Google Workspace coverage** for Agno — complementing existing Sheets, Docs, Drive, Calendar, and Gmail integrations, making Agno the only OSS agent framework with end-to-end Workspace support.
-- Architected dual **OAuth 2.0 and Service Account** authentication flows supporting both user-facing and enterprise server-side deployments.
----
-
-
-
-
-### 🏆 Certifications & Achievements
-
-- 🥇 **Smart India Hackathon 2024 Finalist**  
-- 🥈 **Rajasthan Police Hackathon Finalist**  
-- 🚀 **Informatica GenAI Hackathon 2025** — Advanced to Prototype Development Phase  
-
----
-
-### 🎓 Education
-
-**Poornima University, Jaipur (2022 – 2026)**  
-_B.Tech in Computer Science and Engineering_  
-
-**Rawat Public School, Jaipur (2018 – 2022)**  
-_Primary & Secondary Education_
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/anshul-jain-2b1b0b250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:anshul.jain.devx@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/anshul-jain-devx108" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
----
-
-⭐ **If you like what I do, consider giving my repositories a star!** 🌟
